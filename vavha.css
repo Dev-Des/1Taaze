@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'Vazir';
+  font-family: 'vazir';
   src: url('Vazir-Thin-FD-WOL.ttf') format('truetype'),
        url('Vazir-Thin-FD-WOL.woff') format('woff');
   font-style: normal;
@@ -7,7 +7,7 @@
 }
 
 @font-face {
-  font-family: 'Vazir';
+  font-family: 'vazir';
   src: url('Vazir-Light-FD-WOL.ttf') format('truetype'),
        url('Vazir-Light-FD-WOL.woff') format('woff');
   font-style: normal;
@@ -15,7 +15,7 @@
 }
 
 @font-face {
-  font-family: 'Vazir';
+  font-family: 'vazir';
   src: url('Vazir-FD-WOL.ttf') format('truetype'),
        url('Vazir-FD-WOL.woff') format('woff');
   font-style: normal;
@@ -23,7 +23,7 @@
 }
 
 @font-face {
-  font-family: 'Vazir';
+  font-family: 'vazir';
   src: url('Vazir-Medium-FD-WOL.ttf') format('truetype'),
        url('Vazir-Medium-FD-WOL.woff') format('woff');
   font-style: normal;
@@ -31,7 +31,7 @@
 }
 
 @font-face {
-  font-family: 'Vazir';
+  font-family: 'vazir';
   src: url('Vazir-Bold-FD-WOL.ttf') format('truetype'),
        url('Vazir-Bold-FD-WOL.woff') format('woff');
   font-style: normal;
@@ -39,7 +39,7 @@
 }
 
 @font-face {
-  font-family: 'Vazir';
+  font-family: 'vazir';
   src: url('Vazir-Black-FD-WOL.ttf') format('truetype'),
        url('Vazir-Black-FD-WOL.woff') format('woff');
   font-style: normal;
