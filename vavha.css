@@ -1,41 +1,41 @@
 @font-face {
   font-family: Vazir;
-  src: url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Thin-FD-WOL.ttf') format('truetype'),
-       url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Thin-FD-WOL.woff') format('woff');
+  src: url('Vazir-Thin-FD-WOL.ttf') format('truetype'),
+       url('Vazir-Thin-FD-WOL.woff') format('woff');
   font-weight: 100;
 }
 
 @font-face {
   font-family: Vazir;
-  src: url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Light-FD-WOL.ttf') format('truetype'),
-       url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Light-FD-WOL.woff') format('woff');
+  src: url('Vazir-Light-FD-WOL.ttf') format('truetype'),
+       url('Vazir-Light-FD-WOL.woff') format('woff');
   font-weight: 200;
 }
 
 @font-face {
   font-family: Vazir;
-  src: url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-FD-WOL.ttf') format('truetype'),
-       url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-FD-WOL.woff') format('woff');
+  src: url('Vazir-FD-WOL.ttf') format('truetype'),
+       url('Vazir-FD-WOL.woff') format('woff');
   font-weight: 300;
 }
 
 @font-face {
   font-family: Vazir;
-  src: url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Medium-FD-WOL.ttf') format('truetype'),
-       url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Medium-FD-WOL.woff') format('woff');
+  src: url('Vazir-Medium-FD-WOL.ttf') format('truetype'),
+       url('Vazir-Medium-FD-WOL.woff') format('woff');
   font-weight: 500;
 }
 
 @font-face {
   font-family: Vazir;
-  src: url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Bold-FD-WOL.ttf') format('truetype'),
-       url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Bold-FD-WOL.woff') format('woff');
+  src: url('Vazir-Bold-FD-WOL.ttf') format('truetype'),
+       url('Vazir-Bold-FD-WOL.woff') format('woff');
   font-weight: 600;
 }
 
 @font-face {
   font-family: Vazir;
-  src: url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Black-FD-WOL.ttf') format('truetype'),
-       url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir-Black-FD-WOL.woff') format('woff');
+  src: url('Vazir-Black-FD-WOL.ttf') format('truetype'),
+       url('Vazir-Black-FD-WOL.woff') format('woff');
   font-weight: 700;
 }
